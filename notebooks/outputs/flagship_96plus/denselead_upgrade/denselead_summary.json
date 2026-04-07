@@ -1,0 +1,22 @@
+{
+  "all_years_tag": "all_2018_2022",
+  "requested_candidate_leads_h": [
+    24,
+    48,
+    72,
+    96,
+    120,
+    144,
+    168
+  ],
+  "selected_dense_leads_h": [
+    24,
+    48,
+    72,
+    96,
+    120,
+    144,
+    168
+  ],
+  "n_selected_dense_leads": 7
+}

@@ -1,0 +1,5 @@
+workflow,window,model,lead,error
+growth,2021-01-01_2021-12-31,NeuralGCM,1 days,"No common valid_time values across lagged growth, forecast error, and regime labels."
+growth,2021-01-01_2021-12-31,NeuralGCM,3 days,"No common valid_time values across lagged growth, forecast error, and regime labels."
+growth,2021-01-01_2021-12-31,NeuralGCM,5 days,"No common valid_time values across lagged growth, forecast error, and regime labels."
+growth,2021-01-01_2021-12-31,NeuralGCM,7 days,"No common valid_time values across lagged growth, forecast error, and regime labels."

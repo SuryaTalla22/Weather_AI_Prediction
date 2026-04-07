@@ -1,0 +1,9 @@
+workflow,window,model,lead,error
+growth,2018-12-01_2019-02-28,GraphCast,1 days,"No common valid_time values across lagged growth, forecast error, and regime labels."
+growth,2018-12-01_2019-02-28,GraphCast,3 days,"No common valid_time values across lagged growth, forecast error, and regime labels."
+growth,2018-12-01_2019-02-28,GraphCast,5 days,"No common valid_time values across lagged growth, forecast error, and regime labels."
+growth,2018-12-01_2019-02-28,GraphCast,7 days,"No common valid_time values across lagged growth, forecast error, and regime labels."
+growth,2018-12-01_2019-02-28,NeuralGCM,1 days,"No common valid_time values across lagged growth, forecast error, and regime labels."
+growth,2018-12-01_2019-02-28,NeuralGCM,3 days,"No common valid_time values across lagged growth, forecast error, and regime labels."
+growth,2018-12-01_2019-02-28,NeuralGCM,5 days,"No common valid_time values across lagged growth, forecast error, and regime labels."
+growth,2018-12-01_2019-02-28,NeuralGCM,7 days,"No common valid_time values across lagged growth, forecast error, and regime labels."

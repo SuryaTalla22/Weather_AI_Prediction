@@ -1,0 +1,10 @@
+/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/_worker_tmp/window_worker_v5.py:246: UserWarning: Could not infer format, so each element will be parsed individually, falling back to `dateutil`. To ensure parsing is consistent and as-expected, please specify a format.
+  ts = pd.to_datetime(s, errors='coerce')
+/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/src/flagship_predictability/spectra.py:46: RuntimeWarning: Mean of empty slice
+  "mean_spectrum": (("wavenumber",), np.nanmean(spectra, axis=0)),
+/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/src/flagship_predictability/spectra.py:46: RuntimeWarning: Mean of empty slice
+  "mean_spectrum": (("wavenumber",), np.nanmean(spectra, axis=0)),
+/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/src/flagship_predictability/spectra.py:46: RuntimeWarning: Mean of empty slice
+  "mean_spectrum": (("wavenumber",), np.nanmean(spectra, axis=0)),
+/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/src/flagship_predictability/spectra.py:46: RuntimeWarning: Mean of empty slice
+  "mean_spectrum": (("wavenumber",), np.nanmean(spectra, axis=0)),

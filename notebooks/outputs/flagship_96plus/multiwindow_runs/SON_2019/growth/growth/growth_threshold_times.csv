@@ -1,0 +1,5 @@
+x1.25,x1.5,x2.0,window,model,curve
+3.0,,,2019-09-01_2019-11-30,HRES,lagged_growth
+1.0,1.0,1.0,2019-09-01_2019-11-30,HRES,forecast_error
+,,,2019-09-01_2019-11-30,GraphCast,lagged_growth
+1.0,1.0,1.0,2019-09-01_2019-11-30,GraphCast,forecast_error

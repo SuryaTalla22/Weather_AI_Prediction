@@ -1,0 +1,25 @@
+window,model,lead,sector,truth_frac_mean,truth_frac_q90,truth_frac_q95,truth_frac_max,n_valid_times
+2021-09-01_2021-11-30,HRES,1 days,EuroAtlantic,0.046875,0.1762499999999999,0.2375,0.4375,180
+2021-09-01_2021-11-30,HRES,1 days,Pacific,0.008958333333333334,0.0012499999999999291,0.075,0.2,180
+2021-09-01_2021-11-30,HRES,3 days,EuroAtlantic,0.04580965909090909,0.16875,0.2375,0.4375,176
+2021-09-01_2021-11-30,HRES,3 days,Pacific,0.009161931818181819,0.00625,0.075,0.2,176
+2021-09-01_2021-11-30,HRES,5 days,EuroAtlantic,0.046875,0.17375000000000007,0.2375,0.4375,172
+2021-09-01_2021-11-30,HRES,5 days,Pacific,0.009375,0.011250000000000072,0.075,0.2,172
+2021-09-01_2021-11-30,HRES,7 days,EuroAtlantic,0.04791666666666667,0.17875000000000013,0.2375,0.4375,168
+2021-09-01_2021-11-30,HRES,7 days,Pacific,0.009598214285714286,0.020000000000000285,0.075,0.2,168
+2021-09-01_2021-11-30,GraphCast,1 days,EuroAtlantic,,,,,0
+2021-09-01_2021-11-30,GraphCast,1 days,Pacific,,,,,0
+2021-09-01_2021-11-30,GraphCast,3 days,EuroAtlantic,,,,,0
+2021-09-01_2021-11-30,GraphCast,3 days,Pacific,,,,,0
+2021-09-01_2021-11-30,GraphCast,5 days,EuroAtlantic,,,,,0
+2021-09-01_2021-11-30,GraphCast,5 days,Pacific,,,,,0
+2021-09-01_2021-11-30,GraphCast,7 days,EuroAtlantic,,,,,0
+2021-09-01_2021-11-30,GraphCast,7 days,Pacific,,,,,0
+2021-09-01_2021-11-30,NeuralGCM,1 days,EuroAtlantic,,,,,0
+2021-09-01_2021-11-30,NeuralGCM,1 days,Pacific,,,,,0
+2021-09-01_2021-11-30,NeuralGCM,3 days,EuroAtlantic,,,,,0
+2021-09-01_2021-11-30,NeuralGCM,3 days,Pacific,,,,,0
+2021-09-01_2021-11-30,NeuralGCM,5 days,EuroAtlantic,,,,,0
+2021-09-01_2021-11-30,NeuralGCM,5 days,Pacific,,,,,0
+2021-09-01_2021-11-30,NeuralGCM,7 days,EuroAtlantic,,,,,0
+2021-09-01_2021-11-30,NeuralGCM,7 days,Pacific,,,,,0

@@ -1,0 +1,66 @@
+{
+  "requested_start": "2019-12-01 00:00:00",
+  "requested_end": "2020-02-29 00:00:00",
+  "requested_label": "2019-12-01_2020-02-29",
+  "primary_file": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/multiwindow_runs/DJF_2020/regimes/regimes/regime_labels.csv",
+  "primary_time_col": "time",
+  "primary_observed_start": "2019-12-01 00:00:00",
+  "primary_observed_end": "2020-02-29 18:00:00",
+  "primary_time_hash": "c5998434eeff8644015b248ce677bdbb",
+  "primary_n_unique_times": 364,
+  "validation_status": "ok",
+  "all_files": [
+    {
+      "file": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/multiwindow_runs/DJF_2020/regimes/regimes/regime_labels.csv",
+      "exists": true,
+      "n_rows": 364,
+      "time_col": "time",
+      "n_time_values": 364,
+      "n_unique_times": 364,
+      "observed_start": "2019-12-01 00:00:00",
+      "observed_end": "2020-02-29 18:00:00",
+      "time_hash": "c5998434eeff8644015b248ce677bdbb",
+      "status": "ok",
+      "notes": ""
+    },
+    {
+      "file": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/multiwindow_runs/DJF_2020/audit/audit/alignment_audit.csv",
+      "exists": true,
+      "n_rows": 56,
+      "time_col": "n_valid_times",
+      "n_time_values": 56,
+      "n_unique_times": 8,
+      "observed_start": "1970-01-01 00:00:00.000000106",
+      "observed_end": "1970-01-01 00:00:00.000000180",
+      "time_hash": "5ce66ed4a8e1e168c6b47b94ae84dc7d",
+      "status": "ok",
+      "notes": ""
+    },
+    {
+      "file": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/multiwindow_runs/DJF_2020/audit/audit/coverage_summary.csv",
+      "exists": true,
+      "n_rows": 4,
+      "time_col": "time_start",
+      "n_time_values": 4,
+      "n_unique_times": 4,
+      "observed_start": "1959-01-01 00:00:00",
+      "observed_end": "2020-01-01 00:00:00",
+      "time_hash": "aba844d499cd6c271a5ad4afed469f38",
+      "status": "ok",
+      "notes": ""
+    },
+    {
+      "file": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/multiwindow_runs/DJF_2020/audit/audit/dataset_variables.csv",
+      "exists": true,
+      "n_rows": 101,
+      "time_col": null,
+      "n_time_values": 0,
+      "n_unique_times": 0,
+      "observed_start": null,
+      "observed_end": null,
+      "time_hash": null,
+      "status": "unparseable_datetime_cols",
+      "notes": ""
+    }
+  ]
+}

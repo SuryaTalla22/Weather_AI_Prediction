@@ -1,0 +1,19 @@
+{
+  "tag": "JJA_2022",
+  "bucket": "season",
+  "season": "JJA",
+  "requested_start": "2022-06-01 00:00:00",
+  "requested_end": "2022-08-31 00:00:00",
+  "requested_start_date": "2022-06-01",
+  "requested_end_date": "2022-08-31",
+  "requested_leads_h": [
+    24,
+    72,
+    120,
+    168
+  ],
+  "requested_n_regimes": 4,
+  "requested_n_components": 8,
+  "requested_blocking_threshold": 0.1,
+  "requested_growth_lag_h": 12
+}

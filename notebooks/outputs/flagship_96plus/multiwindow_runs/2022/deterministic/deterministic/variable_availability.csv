@@ -1,0 +1,16 @@
+window,variable,model,dataset,status,message
+2022-01-01_2022-12-31,z500,HRES,hres_0012_240,ok,
+2022-01-01_2022-12-31,z500,GraphCast,graphcast_2020_240,ok,
+2022-01-01_2022-12-31,z500,NeuralGCM,neuralgcm_det_2020_240,ok,
+2022-01-01_2022-12-31,t850,HRES,hres_0012_240,ok,
+2022-01-01_2022-12-31,t850,GraphCast,graphcast_2020_240,ok,
+2022-01-01_2022-12-31,t850,NeuralGCM,neuralgcm_det_2020_240,ok,
+2022-01-01_2022-12-31,u850,HRES,hres_0012_240,ok,
+2022-01-01_2022-12-31,u850,GraphCast,graphcast_2020_240,ok,
+2022-01-01_2022-12-31,u850,NeuralGCM,neuralgcm_det_2020_240,ok,
+2022-01-01_2022-12-31,v850,HRES,hres_0012_240,ok,
+2022-01-01_2022-12-31,v850,GraphCast,graphcast_2020_240,ok,
+2022-01-01_2022-12-31,v850,NeuralGCM,neuralgcm_det_2020_240,ok,
+2022-01-01_2022-12-31,mslp,HRES,hres_0012_240,ok,
+2022-01-01_2022-12-31,mslp,GraphCast,graphcast_2020_240,ok,
+2022-01-01_2022-12-31,mslp,NeuralGCM,neuralgcm_det_2020_240,missing_variable,"""Dataset 'neuralgcm_det_2020_240' is missing variable candidates ['msl', 'mean_sea_level_pressure', 'mslp'] for VariableSpec(name='mslp', level=None). Available variables: ['P_minus_E_cumulative', 'geopotential', 'specific_cloud_ice_water_content', 'specific_cloud_liquid_water_content', 'specific_humidity', 'temperature', 'u_component_of_wind', 'v_component_of_wind', 'wind_speed']"""

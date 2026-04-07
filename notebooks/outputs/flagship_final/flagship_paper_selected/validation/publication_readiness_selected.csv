@@ -1,0 +1,11 @@
+test_name,status,criterion,evidence,recommended_action
+audit_alignment,WARN,All forecast-truth alignment checks should report status=ok.,Found 20 non-ok rows.,Fix the non-ok combinations before using them in the paper.
+regime_balance,PASS,No regime should be too small or overwhelmingly dominant in the main setup.,"Regime fractions={0: 0.231, 1: 0.118, 2: 0.354, 3: 0.297}.",No action needed.
+regime_stability,FAIL,Sorted cluster fractions should not vary wildly across EOF-count choices.,Minimum cluster fraction=0.118; max spread in sorted fractions=0.245.,"For absolute flagship level, retrain regimes on a longer climatological window, keep 4 regimes as main, and show 3-regime robustness in the paper."
+deterministic_core,PASS,Core deterministic variables should be present for all models across the headline leads.,"Variables present=['t850', 'u850', 'v850', 'z500']; minimum lead count per model-variable=4.",No action needed.
+reduced_coverage_variables,PASS,Optional variables should either be fully covered or documented as appendix-only.,No missing-variable rows were logged.,No action needed.
+balance_diagnostics,PASS,Balance diagnostics should be finite and free of obvious pole singularities.,Finite=True; max balance metric=2.775e-05.,No action needed.
+spectral_diagnostics,PASS,Spectral-retention curves should be finite and physically interpretable.,Finite fraction=1.000; fraction below -0.1 = 0.000.,No action needed.
+growth_diagnostics,PASS,Each deterministic model should populate all headline growth leads without workflow errors.,"Lead counts by model={'GraphCast': 4, 'HRES': 4, 'NeuralGCM': 4}; growth errors=0.",No action needed.
+blocking_diagnostics,PASS,Blocking verification should have a nontrivial truth-event sample under the chosen threshold.,truth_positive_count sum=720; n_blocked sum=636; mean truth-blocked fraction at thr=0.1 is 0.305.,No action needed.
+selected_figure_set,PASS,The flagship paper figure set should exist in a dedicated export directory.,Saved 10 selected figures across main and appendix tiers.,No action needed.
