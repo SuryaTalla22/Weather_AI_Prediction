@@ -1,0 +1,20 @@
+{
+  "tag": "DJF_2022",
+  "bucket": "season",
+  "season": "DJF",
+  "requested_start": "2021-12-01",
+  "requested_end": "2022-02-28",
+  "run_root": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/multiwindow_runs/DJF_2022",
+  "prerun_date_windows_contains_requested": true,
+  "prerun_observed_date_windows": "[[\"2021-12-01\", \"2022-02-28\"]]",
+  "audit_status": "ok",
+  "regimes_status": "ok",
+  "window_validation_status": "ok",
+  "primary_time_hash": "abd5d355a1a8a87d65367a6b19b8dc08",
+  "primary_observed_start": "2021-12-01 00:00:00",
+  "primary_observed_end": "2022-02-28 18:00:00",
+  "deterministic_status": "ok",
+  "growth_status": "ok",
+  "blocking_status": "ok",
+  "regime_sensitivity_status": "skipped"
+}

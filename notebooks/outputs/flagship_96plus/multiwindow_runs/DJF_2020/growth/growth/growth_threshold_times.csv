@@ -1,0 +1,7 @@
+x1.25,x1.5,x2.0,window,model,curve
+3.0,,,2019-12-01_2020-02-29,HRES,lagged_growth
+1.0,1.0,1.0,2019-12-01_2020-02-29,HRES,forecast_error
+,,,2019-12-01_2020-02-29,GraphCast,lagged_growth
+1.0,1.0,1.0,2019-12-01_2020-02-29,GraphCast,forecast_error
+,,,2019-12-01_2020-02-29,NeuralGCM,lagged_growth
+1.0,1.0,1.0,2019-12-01_2020-02-29,NeuralGCM,forecast_error

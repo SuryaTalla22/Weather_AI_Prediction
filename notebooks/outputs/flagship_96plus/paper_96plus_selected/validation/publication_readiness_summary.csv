@@ -1,0 +1,9 @@
+test_name,status,criterion,evidence,recommended_action
+coverage,PASS,Need all years plus all four seasons represented.,"n_year_windows=5; seasons_present=['DJF', 'JJA', 'MAM', 'SON'].",Broaden or fix window plan if any years/seasons are missing.
+all_years_core_skill,FAIL,Need pooled all-years deterministic evidence.,all_2018_2022 rows=0.,Ensure pooled all-years window ran and was collected.
+ai_advantage_stability,FAIL,AI systems should beat HRES in most z500 windows.,mean_share_favorable=0.32.,Keep claims comparative if the favorable share is only moderate.
+leadwise_consistency,PASS,A stronger paper should show where the advantage appears across lead time.,leadwise_rows=400.,Use only long-lead claims if leadwise summaries are unavailable.
+regime_balance,WARN,No window should collapse into tiny regimes.,minimum_regime_fraction=0.0788043478260869.,Keep regime claims soft if some windows are very imbalanced.
+regime_entropy,PASS,Entropy is a useful complement to min/max regime share.,entropy_rows=24.,Optional but useful for interpretation.
+blocking_penalty,WARN,Blocked cases should usually be harder than unblocked cases.,mean_positive_penalty_share=0.4066666666666668.,"If penalties are weak, keep blocked-flow claims descriptive rather than sweeping."
+dense_lead_support,PASS,Dense lead support strengthens the case that the ranking is not an artifact of sparse checkpoints.,"dense_manifest_rows=1; columns=['all_years_tag', 'requested_candidate_leads_h', 'selected_dense_leads_h', 'n_selected_dense_leads']",Keep the dense-lead figure in the appendix if only sparse leads are available.

@@ -1,0 +1,5 @@
+file,exists,n_rows,time_col,n_time_values,n_unique_times,observed_start,observed_end,time_hash,status,notes
+/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/multiwindow_runs/DJF_2020/regimes/regimes/regime_labels.csv,True,364,time,364,364,2019-12-01 00:00:00,2020-02-29 18:00:00,c5998434eeff8644015b248ce677bdbb,ok,
+/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/multiwindow_runs/DJF_2020/audit/audit/alignment_audit.csv,True,56,n_valid_times,56,8,1970-01-01 00:00:00.000000106,1970-01-01 00:00:00.000000180,5ce66ed4a8e1e168c6b47b94ae84dc7d,ok,
+/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/multiwindow_runs/DJF_2020/audit/audit/coverage_summary.csv,True,4,time_start,4,4,1959-01-01 00:00:00,2020-01-01 00:00:00,aba844d499cd6c271a5ad4afed469f38,ok,
+/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/multiwindow_runs/DJF_2020/audit/audit/dataset_variables.csv,True,101,,0,0,,,,unparseable_datetime_cols,

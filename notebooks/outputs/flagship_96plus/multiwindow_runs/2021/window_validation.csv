@@ -1,0 +1,5 @@
+file,exists,n_rows,time_col,n_time_values,n_unique_times,observed_start,observed_end,time_hash,status,notes
+/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/multiwindow_runs/2021/regimes/regimes/regime_labels.csv,True,1460,time,1460,1460,2021-01-01 00:00:00,2021-12-31 18:00:00,f85a8afdf7493008e7ae144aebce859e,ok,
+/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/multiwindow_runs/2021/audit/audit/alignment_audit.csv,True,56,n_valid_times,56,6,1970-01-01 00:00:00,1970-01-01 00:00:00.000000728,9c82508d227e6511e0f5865699953e87,ok,
+/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/multiwindow_runs/2021/audit/audit/coverage_summary.csv,True,4,time_start,4,4,1959-01-01 00:00:00,2020-01-01 00:00:00,aba844d499cd6c271a5ad4afed469f38,ok,
+/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/multiwindow_runs/2021/audit/audit/dataset_variables.csv,True,101,,0,0,,,,unparseable_datetime_cols,

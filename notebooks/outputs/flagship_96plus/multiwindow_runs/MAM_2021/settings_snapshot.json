@@ -1,0 +1,230 @@
+{
+  "truth_dataset": "era5_truth_240",
+  "deterministic_models": {
+    "HRES": "hres_0012_240",
+    "GraphCast": "graphcast_2020_240",
+    "NeuralGCM": "neuralgcm_det_2020_240"
+  },
+  "ensemble_models": {},
+  "date_windows": [
+    [
+      "2021-03-01",
+      "2021-05-31"
+    ]
+  ],
+  "leads_hours": [
+    24,
+    72,
+    120,
+    168
+  ],
+  "variables": {
+    "z500": {
+      "name": "z500",
+      "candidates": [
+        "z",
+        "geopotential",
+        "gh"
+      ],
+      "level": 500,
+      "climatology_groupby": null,
+      "thresholds": []
+    },
+    "t850": {
+      "name": "t850",
+      "candidates": [
+        "t",
+        "temperature"
+      ],
+      "level": 850,
+      "climatology_groupby": null,
+      "thresholds": []
+    },
+    "u850": {
+      "name": "u850",
+      "candidates": [
+        "u",
+        "u_component_of_wind"
+      ],
+      "level": 850,
+      "climatology_groupby": null,
+      "thresholds": []
+    },
+    "v850": {
+      "name": "v850",
+      "candidates": [
+        "v",
+        "v_component_of_wind"
+      ],
+      "level": 850,
+      "climatology_groupby": null,
+      "thresholds": []
+    },
+    "mslp": {
+      "name": "mslp",
+      "candidates": [
+        "msl",
+        "mean_sea_level_pressure",
+        "mslp"
+      ],
+      "level": null,
+      "climatology_groupby": null,
+      "thresholds": []
+    }
+  },
+  "n_regimes": 4,
+  "n_eof_components": 8,
+  "n_eof": 8,
+  "bootstrap_n": 400,
+  "bootstrap_block": 5,
+  "blocking_sectors": {
+    "EuroAtlantic": [
+      -60.0,
+      60.0
+    ],
+    "Pacific": [
+      120.0,
+      240.0
+    ]
+  },
+  "blocking_threshold": 0.1,
+  "assume_geopotential": true,
+  "lag": "12h",
+  "analysis_start": "2021-03-01 00:00:00",
+  "window_start": "2021-03-01 00:00:00",
+  "start_time": "2021-03-01 00:00:00",
+  "start": "2021-03-01 00:00:00",
+  "verification_start": "2021-03-01 00:00:00",
+  "start_date": "2021-03-01 00:00:00",
+  "date_start": "2021-03-01 00:00:00",
+  "time_start": "2021-03-01 00:00:00",
+  "analysis_end": "2021-05-31 00:00:00",
+  "window_end": "2021-05-31 00:00:00",
+  "end_time": "2021-05-31 00:00:00",
+  "end": "2021-05-31 00:00:00",
+  "verification_end": "2021-05-31 00:00:00",
+  "end_date": "2021-05-31 00:00:00",
+  "date_end": "2021-05-31 00:00:00",
+  "time_end": "2021-05-31 00:00:00",
+  "analysis_start_str": "2021-03-01 00:00:00",
+  "window_start_str": "2021-03-01 00:00:00",
+  "start_str": "2021-03-01 00:00:00",
+  "start_date_str": "2021-03-01 00:00:00",
+  "verification_start_str": "2021-03-01 00:00:00",
+  "date_start_str": "2021-03-01 00:00:00",
+  "analysis_end_str": "2021-05-31 00:00:00",
+  "window_end_str": "2021-05-31 00:00:00",
+  "end_str": "2021-05-31 00:00:00",
+  "end_date_str": "2021-05-31 00:00:00",
+  "verification_end_str": "2021-05-31 00:00:00",
+  "date_end_str": "2021-05-31 00:00:00",
+  "date_window_pairs": [
+    [
+      "2021-03-01",
+      "2021-05-31"
+    ]
+  ],
+  "requested_window_start": "2021-03-01 00:00:00",
+  "requested_window_end": "2021-05-31 00:00:00",
+  "requested_window_label": "2021-03-01_2021-05-31",
+  "requested_window": {
+    "start": "2021-03-01 00:00:00",
+    "end": "2021-05-31 00:00:00",
+    "start_str": "2021-03-01",
+    "end_str": "2021-05-31"
+  },
+  "analysis_window": {
+    "start": "2021-03-01 00:00:00",
+    "end": "2021-05-31 00:00:00",
+    "start_str": "2021-03-01",
+    "end_str": "2021-05-31"
+  },
+  "verification_window": {
+    "start": "2021-03-01 00:00:00",
+    "end": "2021-05-31 00:00:00",
+    "start_str": "2021-03-01",
+    "end_str": "2021-05-31"
+  },
+  "time_window": {
+    "start": "2021-03-01 00:00:00",
+    "end": "2021-05-31 00:00:00",
+    "start_str": "2021-03-01",
+    "end_str": "2021-05-31"
+  },
+  "date_window": {
+    "start": "2021-03-01 00:00:00",
+    "end": "2021-05-31 00:00:00",
+    "start_str": "2021-03-01",
+    "end_str": "2021-05-31"
+  },
+  "window": {
+    "start": "2021-03-01 00:00:00",
+    "end": "2021-05-31 00:00:00",
+    "start_str": "2021-03-01",
+    "end_str": "2021-05-31"
+  },
+  "window_spec": {
+    "start": "2021-03-01 00:00:00",
+    "end": "2021-05-31 00:00:00",
+    "start_str": "2021-03-01",
+    "end_str": "2021-05-31"
+  },
+  "time_range": [
+    "2021-03-01 00:00:00",
+    "2021-05-31 00:00:00"
+  ],
+  "date_range": [
+    "2021-03-01 00:00:00",
+    "2021-05-31 00:00:00"
+  ],
+  "window_range": [
+    "2021-03-01 00:00:00",
+    "2021-05-31 00:00:00"
+  ],
+  "analysis_range": [
+    "2021-03-01 00:00:00",
+    "2021-05-31 00:00:00"
+  ],
+  "verification_range": [
+    "2021-03-01 00:00:00",
+    "2021-05-31 00:00:00"
+  ],
+  "lead_hours": [
+    24,
+    72,
+    120,
+    168
+  ],
+  "lead_times": [
+    "24h",
+    "72h",
+    "120h",
+    "168h"
+  ],
+  "lead_timedeltas": [
+    "1 days 00:00:00",
+    "3 days 00:00:00",
+    "5 days 00:00:00",
+    "7 days 00:00:00"
+  ],
+  "bootstrap_samples": 400,
+  "bootstrap_block_length": 5,
+  "growth_lag_hours": 12,
+  "leads": [
+    "datetime.timedelta(days=1)",
+    "datetime.timedelta(days=3)",
+    "datetime.timedelta(days=5)",
+    "datetime.timedelta(days=7)"
+  ],
+  "__prerun_window_check__": {
+    "expected_start_date": "2021-03-01",
+    "expected_end_date": "2021-05-31",
+    "observed_date_windows": [
+      [
+        "2021-03-01",
+        "2021-05-31"
+      ]
+    ],
+    "date_windows_contains_requested": true
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "tag": "2021",
+  "bucket": "year",
+  "season": "ALL",
+  "requested_start": "2021-01-01",
+  "requested_end": "2021-12-31",
+  "run_root": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/multiwindow_runs/2021",
+  "prerun_date_windows_contains_requested": true,
+  "prerun_observed_date_windows": "[[\"2021-01-01\", \"2021-12-31\"]]",
+  "audit_status": "ok",
+  "regimes_status": "ok",
+  "window_validation_status": "ok",
+  "primary_time_hash": "f85a8afdf7493008e7ae144aebce859e",
+  "primary_observed_start": "2021-01-01 00:00:00",
+  "primary_observed_end": "2021-12-31 18:00:00",
+  "deterministic_status": "ok",
+  "growth_status": "ok",
+  "blocking_status": "ok",
+  "regime_sensitivity_status": "ok"
+}

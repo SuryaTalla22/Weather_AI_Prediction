@@ -1,0 +1,2 @@
+workflow,window,variable,model,lead,error
+deterministic,2020-01-01_2020-03-31,mslp,NeuralGCM,,"""Dataset 'neuralgcm_det_2020_240' is missing variable candidates ['msl', 'mean_sea_level_pressure', 'mslp'] for VariableSpec(name='mslp', level=None). Available variables: ['P_minus_E_cumulative', 'geopotential', 'specific_cloud_ice_water_content', 'specific_cloud_liquid_water_content', 'specific_humidity', 'temperature', 'u_component_of_wind', 'v_component_of_wind', 'wind_speed']"""

@@ -1,0 +1,25 @@
+window,model,lead,sector,truth_frac_mean,truth_frac_q90,truth_frac_q95,truth_frac_max,n_valid_times
+2018-06-01_2018-08-31,HRES,1 days,EuroAtlantic,0.05384615384615385,0.1875,0.2375,0.4875,182
+2018-06-01_2018-08-31,HRES,1 days,Pacific,0.015453296703296704,0.075,0.09937499999999987,0.25,182
+2018-06-01_2018-08-31,HRES,3 days,EuroAtlantic,0.05056179775280899,0.1875,0.2375,0.4875,178
+2018-06-01_2018-08-31,HRES,3 days,Pacific,0.01580056179775281,0.075,0.10187500000000008,0.25,178
+2018-06-01_2018-08-31,HRES,5 days,EuroAtlantic,0.0483477011494253,0.1875,0.2375,0.4875,174
+2018-06-01_2018-08-31,HRES,5 days,Pacific,0.016163793103448277,0.075,0.10437499999999994,0.25,174
+2018-06-01_2018-08-31,HRES,7 days,EuroAtlantic,0.04794117647058825,0.1875,0.2375,0.4875,170
+2018-06-01_2018-08-31,HRES,7 days,Pacific,0.016544117647058824,0.075,0.10687499999999979,0.25,170
+2018-06-01_2018-08-31,GraphCast,1 days,EuroAtlantic,,,,,0
+2018-06-01_2018-08-31,GraphCast,1 days,Pacific,,,,,0
+2018-06-01_2018-08-31,GraphCast,3 days,EuroAtlantic,,,,,0
+2018-06-01_2018-08-31,GraphCast,3 days,Pacific,,,,,0
+2018-06-01_2018-08-31,GraphCast,5 days,EuroAtlantic,,,,,0
+2018-06-01_2018-08-31,GraphCast,5 days,Pacific,,,,,0
+2018-06-01_2018-08-31,GraphCast,7 days,EuroAtlantic,,,,,0
+2018-06-01_2018-08-31,GraphCast,7 days,Pacific,,,,,0
+2018-06-01_2018-08-31,NeuralGCM,1 days,EuroAtlantic,,,,,0
+2018-06-01_2018-08-31,NeuralGCM,1 days,Pacific,,,,,0
+2018-06-01_2018-08-31,NeuralGCM,3 days,EuroAtlantic,,,,,0
+2018-06-01_2018-08-31,NeuralGCM,3 days,Pacific,,,,,0
+2018-06-01_2018-08-31,NeuralGCM,5 days,EuroAtlantic,,,,,0
+2018-06-01_2018-08-31,NeuralGCM,5 days,Pacific,,,,,0
+2018-06-01_2018-08-31,NeuralGCM,7 days,EuroAtlantic,,,,,0
+2018-06-01_2018-08-31,NeuralGCM,7 days,Pacific,,,,,0

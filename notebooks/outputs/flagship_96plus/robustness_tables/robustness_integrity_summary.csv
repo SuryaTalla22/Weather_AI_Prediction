@@ -1,0 +1,2 @@
+eligible_windows,det_rows,reg_rows,blk_rows,evt_rows,label_rows,have_pairwise_summary,have_leadwise_pairwise_summary,have_regime_entropy,have_blocking_event_skill,have_dense_summary
+24,1344,11224,288,576,14248,1,1,1,1,1

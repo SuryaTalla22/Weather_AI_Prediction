@@ -1,0 +1,6 @@
+bucket,season,n_windows
+season,DJF,4
+season,JJA,5
+season,MAM,5
+season,SON,5
+year,ALL,5

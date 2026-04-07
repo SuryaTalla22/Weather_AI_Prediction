@@ -1,0 +1,22 @@
+{
+  "deterministic": {
+    "deterministic_summary": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/denselead_upgrade/deterministic/deterministic_summary.csv",
+    "regime_conditioned_metrics": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/denselead_upgrade/deterministic/regime_conditioned_metrics.csv",
+    "spectral_diagnostics": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/denselead_upgrade/deterministic/spectral_diagnostics.csv",
+    "balance_diagnostics": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/denselead_upgrade/deterministic/balance_diagnostics.csv",
+    "deterministic_errors": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/denselead_upgrade/deterministic/deterministic_errors.csv",
+    "variable_availability": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/denselead_upgrade/deterministic/variable_availability.csv"
+  },
+  "growth": {
+    "growth_metrics": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/denselead_upgrade/growth/growth_metrics.csv",
+    "growth_threshold_times": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/denselead_upgrade/growth/growth_threshold_times.csv",
+    "growth_errors": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/denselead_upgrade/growth/growth_errors.csv"
+  },
+  "blocking": {
+    "blocking_event_metrics": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/denselead_upgrade/blocking/blocking_event_metrics.csv",
+    "blocking_rmse": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/denselead_upgrade/blocking/blocking_rmse.csv",
+    "blocking_truth_fraction_summary": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/denselead_upgrade/blocking/blocking_truth_fraction_summary.csv",
+    "blocking_threshold_sweep": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/denselead_upgrade/blocking/blocking_threshold_sweep.csv",
+    "blocking_errors": "/global/u2/s/suryact/Chaos_Theory/project1_code/flagship_predictability_nextpass/notebooks/outputs/flagship_96plus/denselead_upgrade/blocking/blocking_errors.csv"
+  }
+}
